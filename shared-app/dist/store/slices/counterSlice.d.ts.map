@@ -1,0 +1,1 @@
+{"version":3,"file":"counterSlice.d.ts","sourceRoot":"","sources":["../../../src/store/slices/counterSlice.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,YAAY;IAC3B,KAAK,EAAE,MAAM,CAAC;CACf;AAsBD,eAAO,MAAQ,SAAS,+EAAE,SAAS,+EAAE,iBAAiB,0FAAyB,CAAC;;AAChF,wBAAoC"}
